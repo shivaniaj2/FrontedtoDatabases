@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="FrontedtoDatabase2">
+        
+    <wb-module deploy-name="StudentManagementSystemFrontedtoDatabase2">
+                
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+                
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
-        <property name="context-root" value="FrontedtoDatabase2"/>
-        <property name="java-output-path" value="/FrontedtoDatabase2/build/classes"/>
+                
+        <property name="java-output-path" value="/StudentManagementSystemFrontedtoDatabase2/build/classes"/>
+        <property name="context-root" value="StudentManagementSystemFrontedtoDatabase2"/>
+            
     </wb-module>
+    
 </project-modules>
